@@ -53,8 +53,8 @@ const withdrawalRequests = [
     // Contains example withdrawal request
     // In real system `withdrawalRequests` is table in your persistent database
     {
-        amount: TonWeb.utils.toNano('0.0123'),  // 0.0123 TON
-        toAddress: 'UQAn_rlLlk_MwdfHcspLfpl3iEaQC1WZPFDD7KSbXNbXJ8wM',
+        amount: TonWeb.utils.toNano('30.89656'),  // 0.0123 TON
+        toAddress: 'UQDEzWIMkmu3ReovfvSTRj6fXrV3r3JrRg1ULv4FzrXRI97i',
         queryId: null,
         createdAt: null,
         processed: false,
